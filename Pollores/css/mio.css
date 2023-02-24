@@ -1,0 +1,126 @@
+.imgcartas {
+    background-image: url(../img/Pollito%20amarillo.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.imgverde {
+    background-image: url(../img/Pollito%20verde.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.imgrojo {
+    background-image: url(../img/Pollito%20rojo.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.imgmorado {
+    background-image: url(../img/Pollito%20morado.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.fondocajas {
+    background-color: #121528;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.fondocajas2 {
+    background-color: #676767;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.fondocajas3 {
+    background-color: #FFFFFF;
+    padding-top: 20px;
+}
+.titulo {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.espaciado {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+.fondo {
+    background-color: rgba(255,255,255,0.44);
+    background-position: center center;
+    background-size: cover;
+}
+.fondo2 {
+    background-image: url(../img/Pollito.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+.espacios {
+    background-position: 0 0%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.pollitos1 {
+    background-image: url(../img/1x/pollores1.png);
+}
+.textogeneral {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+}
+.textobold {
+    font-weight: bold;
+    text-align: center;
+}
+.textoblancobold {
+    color: rgba(255,255,255,1.00);
+    font-variant: normal;
+    font-weight: bold;
+}
+.textoblancolight {
+    color: rgba(255,255,255,1.00);
+    font-variant: normal;
+    font-weight: normal;
+    background-color: rgba(0,0,0,0.37);
+    font-size: 30px;
+    line-height: 36px;
+}
+.textoblancolight3 {
+    color: rgba(255,255,255,1.00);
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 36px;
+}
+.textoblancolight2 {
+    color: rgba(18,21,40,1.00);
+    font-variant: normal;
+    font-weight: normal;
+    background-color: rgba(255,255,255,0.37);
+    font-size: 22px;
+    line-height: 36px;
+}
+.textob {
+    color: #FFFFFF;
+    font-size: 21px;
+}
+.textob2 {
+    color: #121528;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 21px;
+}
+.textobol {
+}
+.text-ce {
+}
+.bg-transparent {
+
+}
+.fondo3 {
+    background-image: url(../img/Banner.jpg);
+    background-position: center 0%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fondocajas {
+}
